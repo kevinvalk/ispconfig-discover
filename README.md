@@ -5,6 +5,7 @@ This system supports autoconfig and autodiscover
 * https://developer.mozilla.org/en-US/docs/Mozilla/Thunderbird/Autoconfiguration
 
 ## TODO
+* SOAP api
 * Rewrite guide
 
 ## Guide
