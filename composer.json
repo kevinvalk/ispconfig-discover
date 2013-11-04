@@ -1,0 +1,16 @@
+{
+	"name": "omniasoft/discover",
+	"description": "A simple modular system to support autoconfig and autodiscover for email settings for Outlook and Thunderbird.",
+	"keywords": ["omniasoft", "discover", "autodiscover", "autoconfig"],
+	"homepage": "https://github.com/Omniasoft/ispconfig-discover",
+	"license": "BSD",
+	"authors": [{
+			"name": "Kevin Valk",
+			"email": "kevin@omniasoft.nl"
+	}],
+	"autoload": {
+		"psr-0": {
+			"Discover": "src/"
+		}
+	}
+}

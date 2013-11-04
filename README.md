@@ -3,6 +3,10 @@ This system supports autoconfig and autodiscover
 
 ## Resources
 * https://developer.mozilla.org/en-US/docs/Mozilla/Thunderbird/Autoconfiguration
+* http://msdn.microsoft.com/nl-nl/library/office/bb204278%28v=exchg.150%29.aspx
+ * [MS-OXDISCO] which tells you where to ask.
+ * [MS-OXDSCLI] which tells you what to ask for.
+
 
 ## TODO
 * SOAP api
